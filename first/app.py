@@ -1,4 +1,3 @@
-f= 4
-a =3
+#ctrl +alt +l
+#ctrl +alt +l
 
-print(f+a)
